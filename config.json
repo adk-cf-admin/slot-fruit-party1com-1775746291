@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#3e025a",
+            "lang-select-color": "#222829",
+            "bg-light": "#3e025a",
+            "welcome-bonus-bg": "#3e025a",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#260137",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#5B6AFD",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D50398",
+            "yellow": "#5B6AFD",
+            "yellow-button": "#D50398",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#5B6AFD",
+            "casino-cards": "#3e025a",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#5B6AFD",
+            "providers-back": "#3e025a",
+            "faq-label": "#3e025a",
+            "bg-footer": "#3e025a",
+            "copyright": "#e7e7d5",
+            "starColor": "#5B6AFD",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5976"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5978",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Fruit Party Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5979",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Fruit Party"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Fruit Party",
+                    "title": "Fruit Party  — 10 Free Spins, 96.5% RTP and Multipliers up to 256x",
+                    "description": "Fruit Party is a colorful 7x7 slot with cluster wins, cascading symbols, and a bonus round triggered by 3+ scatters. Enjoy 10 free spins, stronger 2x and 4x multipliers, and stacked multiplier potential up to 256x.",
+                    "canonical": "slot-fruit-party1.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5980",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slot-fruit-party1.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5981"
+                },
+                "hero": {
+                    "title": "Fruit Party  — 7x7 Cluster Pays, 10 Free Spins and Multipliers up to 256x",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5982",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5983",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Cluster Pays makes every spin feel dynamic.",
+                        "Cascades extend winning streaks without extra bets.",
+                        "Random multipliers sharply increase cluster value.",
+                        "Free spins boost big-win potential significantly.",
+                        "Simple rules make Fruit Party beginner-friendly.",
+                        "Bright visuals keep the pace engaging.",
+                        "High max win suits risk-loving players."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Fruit Party App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5984",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Fruit Party App",
+                    "mobileGooglePlayImageTitle": "Fruit Party App",
+                    "mobileIosImageTitle": "Fruit Party App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Fruit Party",
+                        "description1": "Fruit Party is a colorful Cluster Pays slot from Pragmatic Play built on a 7x7 grid.",
+                        "items": [],
+                        "description2": "Instead of paylines, the game rewards clusters of 5 or more matching symbols connected horizontally or vertically. Every winning cluster triggers a tumble, so one paid spin can develop into several consecutive payouts. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5985",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "The standout feature is its multiplier system: winning symbols may carry 2x multipliers in the base game, while the bonus round increases the chance of 2x and 4x values. Landing 3 or more scatters unlocks 10 free spins, and retriggers can add up to 14 more spins. Fruit Party is especially appealing to players who enjoy high volatility, fast action, and a max win potential of 5,000x the stake."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Fruit Party — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Key Features and Core Mechanics\n<\/h3>\n<p>\nFruit Party looks simple on the surface, but it is built around fast cluster action, tumbles, and sudden payout boosts. The game is designed so that even an ordinary spin can quickly grow into a chain of consecutive wins. Its main structure is easy to understand, which makes the slot accessible right away. At the same time, the bonus potential gives Fruit Party enough depth for players who enjoy a more volatile and energetic experience.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Characteristics of Fruit Party\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Release year: 2020<\/li>\n            <li>• Grid size: 7x7<\/li>\n            <li>• Win system: Cluster Pays from 5 matching symbols<\/li>\n            <li>• Symbol connection: horizontal and vertical touching symbols<\/li>\n            <li>• RTP: around 96.5%<\/li>\n            <li>• Volatility: high<\/li>\n            <li>• Base multipliers: random 2x multipliers on winning symbols<\/li>\n            <li>• Maximum stacked multiplier value: up to 256x<\/li>\n            <li>• Bonus trigger: 10 free spins for 3 or more scatters<\/li>\n            <li>• Bonus boost: higher chance of 2x and 4x multipliers<\/li>\n            <li>• Retrigger: 3–7 scatters award 10–14 extra free spins<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Where You Can Play\n<\/h3>\n<p>\nFruit Party is commonly available on major gaming platforms that feature Pragmatic Play slot libraries. In most cases, the game can be launched directly in a browser and also works smoothly on mobile devices without extra installation. It is usually placed in sections for popular video slots, fruit-themed games, or titles with bonus features. The slot is often offered both in real play mode and in a free trial version. For the best experience, it makes sense to choose platforms with clear rules, a comfortable interface, and a transparent gaming environment.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Demo Mode and Free Play\n<\/h3>\n<p>\nThe demo mode in Fruit Party is a convenient way to explore the mechanics of the slot without financial risk. It lets you see how clusters form, how tumbles work, and why random multipliers matter so much in both the base game and free spins. This format is especially useful for beginners because it helps them understand the pace and volatility of the game. Another strong advantage of demo play is the chance to test your comfort level with the betting rhythm before moving to real spins.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Symbol Payout Table\n<\/h3>\n<p>\nIn Fruit Party, payouts are based on cluster size rather than paylines. The larger the group of matching symbols connected horizontally and vertically, the stronger the payout becomes. The table below highlights the top values for the regular symbols at the 15+ cluster level. Strawberry is the highest-paying symbol, while the heart and star sit at the lower end of the paytable.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #5B6AFD;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Fruit Party Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol Tier<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout for 15+ Cluster<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Heart<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Low<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20x<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Star<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Low<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">40x<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Plum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Lower Mid<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">60x<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Grapes<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Mid<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">80x<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Apple<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Upper Mid<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">90x<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Orange<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">High<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100x<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Strawberry<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Top<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">150x<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — How Players Usually Win in Practice\n<\/h3>\n<p>\nIn real play, Fruit Party rarely rewards chaotic bet increases or emotional chasing after dry spins. The strongest results usually come when a player keeps a stable pace, respects the slot’s volatility, and allows the game enough room to build tumbles and multipliers naturally. The most valuable moments do not come from one isolated symbol but from a sequence of events: a cluster win, a tumble, another cluster, and then a multiplier connection. This becomes even more noticeable in free spins, where stronger multiplier action can turn one bonus round into the defining moment of a session. The practical way to approach Fruit Party is not by searching for a trick, but by using discipline, patience, and realistic expectations.\n<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Fruit Party — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Bonuses and Special Features\n<\/h3>\n<p>\nFruit Party does not overload the player with too many unnecessary mechanics. Instead, it focuses on a small number of powerful features that have a real impact on the result of a spin. The entire structure is built around cluster wins, tumbles, and multipliers, so even the base game feels active and engaging. The bonus round is easy to trigger and valuable because it does more than just add free spins — it also improves the multiplier environment. One of the standout strengths of Fruit Party is that multipliers are tied directly to winning symbols, which means the total payout can rise very quickly. Retriggers also add extra depth, because the slot still gives you a chance to extend the bonus even after the feature has already started.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCluster Wins from 5 Symbols\n<\/h4>\n<ul>\n            <li>• A payout is awarded when 5 or more matching symbols connect horizontally or vertically. This is the foundation of the entire gameplay flow in Fruit Party.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTumble Feature After Every Win\n<\/h4>\n<ul>\n            <li>• Winning symbols disappear and new ones fall into place. One paid spin can therefore lead to multiple consecutive wins without placing another bet.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRandom 2x Multipliers in the Base Game\n<\/h4>\n<ul>\n            <li>• In the regular game mode, symbols inside a winning cluster can randomly receive 2x multipliers. Even a medium-size cluster can suddenly become much more rewarding.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStacked Multiplier Power up to 256x\n<\/h4>\n<ul>\n            <li>• When several multiplier values appear in the same winning block, they multiply together. This is one of the biggest reasons why Fruit Party can accelerate a payout so quickly.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\n10 Free Spins for 3 or More Scatters\n<\/h4>\n<ul>\n            <li>• This is the main bonus round of the slot. It activates under a simple condition and immediately shifts the game into a more favorable multiplier setup.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\n2x and 4x Multipliers in Free Spins\n<\/h4>\n<ul>\n            <li>• During the bonus round, multipliers appear more often and can be stronger than in the base game. This is where the most explosive combinations usually happen.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRetrigger for 10–14 Extra Free Spins\n<\/h4>\n<ul>\n            <li>• Landing 3–7 scatters during the feature awards another batch of free spins. This becomes especially valuable when the bonus round is already building momentum.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Free Spins and Multiplier Table\n<\/h3>\n<p>\nFree spins and multipliers are the core power features of Fruit Party. They are the reason the game can move from a simple cluster slot into a much more explosive payout experience. The base game already includes meaningful multiplier action, but the bonus round pushes that system further. The table below shows how the main enhancements are distributed across the different stages of Fruit Party.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #5B6AFD;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Fruit Party Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Trigger or Mode<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Value<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Base Game Multipliers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Winning cluster<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Random 2x multipliers on symbols<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Stacked Multiplier Power<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Several multipliers in one cluster<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 256x total boost<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Free Spins Bonus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3+ scatters<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10 free spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus Multipliers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Winning cluster during free spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Higher chance of 2x and 4x multipliers<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Retrigger<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–7 scatters during bonus<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10–14 extra free spins<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — How to Play\n<\/h3>\n<p>\nFruit Party is easy to start even for players who are more familiar with classic slot games. You do not need to follow paylines here because the entire structure is based on clusters and tumbles. The main goal is to understand how matching groups form, how free spins begin, and why multipliers matter so much in this game.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 1: Open the Paytable\n<\/h4>\n<ul>\n            <li>• Check which symbols have the best value and which special symbol triggers the bonus round.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 2: Set a Comfortable Bet\n<\/h4>\n<ul>\n            <li>• In Fruit Party, it helps to choose a betting pace that can handle several empty or weaker spins without pressure.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 3: Watch Clusters, Not Paylines\n<\/h4>\n<ul>\n            <li>• A win appears when 5 or more matching symbols touch each other horizontally or vertically.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 4: Pay Attention to Tumbles\n<\/h4>\n<ul>\n            <li>• After a win, the matching symbols disappear and new symbols fall from above, which can create additional wins from the same spin.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 5: Track Multipliers on Winning Symbols\n<\/h4>\n<ul>\n            <li>• These are the features that can turn an average cluster into a much stronger payout.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 6: Aim for 3 or More Scatters\n<\/h4>\n<ul>\n            <li>• This is the direct route to 10 free spins and the more aggressive bonus phase of the slot.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Playing Tips\n<\/h3>\n<p>\nFruit Party usually performs best for players who combine excitement with pacing discipline. This is a slot where structure often matters more than impulse because the best results tend to come from strong bonus phases rather than from constant small wins. A measured approach helps you stay in the game longer and handle the volatility more comfortably.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse a Consistent Bet Size\n<\/h4>\n<ul>\n            <li>• This makes it easier to judge the real bonus rhythm of the slot and keeps emotions from pushing your stake around.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlan for Volatility\n<\/h4>\n<ul>\n            <li>• Fruit Party can take time to build momentum, so a very short bankroll often feels pressured too quickly.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDo Not Overvalue Single Wins\n<\/h4>\n<ul>\n            <li>• What matters most here is not one isolated cluster, but a sequence of tumbles combined with multipliers.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTreat Free Spins as the Main Session Engine\n<\/h4>\n<ul>\n            <li>• The bonus round is where Fruit Party most often shows its strongest payout acceleration.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTest the Slot in Demo First\n<\/h4>\n<ul>\n            <li>• This helps you understand the pace of Fruit Party without risk and adapt faster to the cluster-based structure.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nControl Session Length\n<\/h4>\n<ul>\n            <li>• The longer you play without a plan, the easier it becomes to lose control of both your stake and your decisions.<\/li>\n<\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFruit Party — Mistakes That Drain a Bankroll\n<\/h3>\n<p>\nIn Fruit Party, bankroll losses usually come not from the mechanics themselves but from poor decisions under high volatility. The slot is capable of strong bursts, yet those moments are often separated by weaker stretches that require preparation and patience. That is why the biggest losses here are usually caused not by bad luck alone, but by poor stake control and emotional pacing.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStarting With a Bet That Is Too High\n<\/h4>\n<ul>\n            <li>• The player does not get enough time to understand the rhythm of Fruit Party and quickly feels pressure during a dry sequence.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTrying to Recover Losses Immediately\n<\/h4>\n<ul>\n            <li>• In a high-volatility slot, this often leads to even faster bankroll decline.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChanging the Bet Size Too Often\n<\/h4>\n<ul>\n            <li>• This makes it harder to judge performance clearly and turns the session into an emotional chase instead of a controlled approach.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nIgnoring Demo Mode\n<\/h4>\n<ul>\n            <li>• Without testing first, it is harder to understand how often the slot delivers tumbles, multipliers, and bonus surges.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nExpecting Constant Easy Wins\n<\/h4>\n<ul>\n            <li>• Fruit Party is built differently, with its strength focused on less frequent but much stronger payout stretches.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlaying Too Long Without Limits\n<\/h4>\n<ul>\n            <li>• Even a fun slot starts working against the player when time control and bankroll limits disappear.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is there a separate Wild symbol in Fruit Party?",
+                            "answer": "No, there is no traditional Wild symbol here. The game focuses on clusters, tumbles, and multipliers instead of a substitute symbol."
+                        },
+                        {
+                            "title": "Does Fruit Party have a progressive jackpot?",
+                            "answer": "No, Fruit Party is not a progressive jackpot slot. Its appeal comes from the bonus round, tumble sequences, and strong multiplier potential."
+                        },
+                        {
+                            "title": "Can you predict when free spins will appear?",
+                            "answer": "No, the bonus round cannot be predicted exactly. Free spins are triggered randomly when 3 or more scatters land."
+                        },
+                        {
+                            "title": "Why can two similar-looking spins end differently?",
+                            "answer": "Because the result in Fruit Party depends not only on cluster size but also on tumbles and multipliers attached to winning symbols. Two spins that look similar at first can finish very differently."
+                        },
+                        {
+                            "title": "What makes Fruit Party different from old fruit machines?",
+                            "answer": "The biggest difference is the modern 7x7 grid, cluster payouts, and tumble-based structure. This makes the game much more dynamic than traditional fruit slots."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

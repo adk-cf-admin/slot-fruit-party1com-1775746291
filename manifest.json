@@ -1,0 +1,19 @@
+{
+  "name": "Fruit Party",
+  "short_name": "Fruit Party",
+  "theme_color": "",
+  "background_color": "#3e025a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775742575-fruit-party-1-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
